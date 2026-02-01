@@ -569,7 +569,6 @@ docker-compose up -d --build
 ## 🙏 Благодарности
 
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) — основной фреймворк
-- Сообщество русскоязычных Telegram-разработчиков
 
 <br>
 
@@ -587,8 +586,8 @@ docker-compose up -d --build
 
 <br>
 
-[![Telegram Bot](https://img.shields.io/badge/🤖_Попробовать_бота-0088cc?style=for-the-badge)](https://t.me/your_bot)
-[![Telegram Channel](https://img.shields.io/badge/📢_Канал_обновлений-0088cc?style=for-the-badge)](https://t.me/your_channel)
-[![Telegram Chat](https://img.shields.io/badge/💬_Чат_поддержки-0088cc?style=for-the-badge)](https://t.me/your_chat)
+[![Telegram Bot](https://img.shields.io/badge/🦊_FoxCloud_Bot-0088cc?style=for-the-badge&logo=telegram)](https://t.me/foxicloudbot)
+[![Owner](https://img.shields.io/badge/👤_Владелец-0088cc?style=for-the-badge&logo=telegram)](https://t.me/ghost552)
 
 </div>
+
