@@ -1,0 +1,26 @@
+# ═══════════════════════════════════════════════════════════════
+#                    MitaHelper - Docker Compose
+# ═══════════════════════════════════════════════════════════════
+
+services:
+  mitahelper:
+    build: .
+    container_name: mitahelper_bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      # Персистентное хранилище данных
+      - ./MitaHelper/data:/app/MitaHelper/data
+    networks:
+      - mitahelper_network
+    # Логирование
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+networks:
+  mitahelper_network:
+    driver: bridge
