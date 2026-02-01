@@ -2,7 +2,7 @@
 
 # 🤖 MitaHelper
 
-### Мощный бот для управления чатами в Telegram, на русском языке
+### Мощный бот для модерации чатов в Telegram, на русском языке
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_bot)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -592,6 +592,7 @@ docker-compose up -d --build
 [![Owner](https://img.shields.io/badge/👤_Владелец-0088cc?style=for-the-badge&logo=telegram)](https://t.me/ghost552)
 
 </div>
+
 
 
 
